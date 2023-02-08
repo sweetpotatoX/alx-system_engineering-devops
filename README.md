@@ -1,0 +1,1 @@
+This is a a project about shell,basics and here I'm trying to learn shell,basics and I'll uploud all of my progress
