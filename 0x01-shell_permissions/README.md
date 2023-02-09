@@ -1,0 +1,1 @@
+this is a a shell,permissions project here i'm trying to learn the shell permissions
